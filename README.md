@@ -1,2 +1,2 @@
 # PyCodeEditor-
-This the the python code editor of python it can execute code , also i am improving day by day
+This the the python code editor of python it can execute code , also i am improving day by day , i used Tkinter , pyttsx3 ,subprocess , etc...
